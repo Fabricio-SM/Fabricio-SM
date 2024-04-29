@@ -2,12 +2,21 @@
 <h3> About me </h3>
 
 - 🎓 Studying : Graduated in **Systems Analysis and Development** at <a href="https://bra.ifsp.edu.br/"> Instituto Federal de Sao Paulo - Campus Bragança Paulista</a>.
-- Learning : **Flutter** with the <a href="https://www.alura.com.br">Alura</a> courses.
-- I’m very interested in learning programming, especially in mobile and improving my skills.
-- Currently looking for a job to start in the programming area.
+- 🌱 Learning : **Flutter** with the <a href="https://www.alura.com.br">Alura</a> courses.
+- 😄 I’m very interested in learning programming, especially in mobile and improving my skills.
+- 🔭 Currently looking for a job to start in the programming area.
  ##
+
+ ## Languages e Tools 💻
+<div style="display: inline">
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,github,docker,html,css,js" />
+  </a>
+</p>
+</div><br/>
    
-   
+ <h3> GitHub Stats </h3>
   <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-SM&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
